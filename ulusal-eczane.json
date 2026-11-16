@@ -1,0 +1,26 @@
+{
+  "aktifLisanslar": ["ART01", "VAN01", "IST01"],
+  "mesaj": "2026 Yılı Ücretsiz Deneme Sürümü Aktif",
+  "iller": {
+    "Artvin": {
+      "Merkez": [
+        {
+          "tarih": "16.11.2026",
+          "ad": "SAĞLIK ECZANESİ",
+          "adres": "Çarşı Mahallesi, Şehit Dursun Acar Caddesi No:5/D Merkez / Artvin",
+          "telefon": "0 (466) 212-63-34"
+        }
+      ]
+    },
+    "Van": {
+      "İpekyolu": [
+        {
+          "tarih": "16.11.2026",
+          "ad": "İPEKYOLU ECZANESİ",
+          "adres": "Cumhuriyet Caddesi No:20 İpekyolu / Van",
+          "telefon": "0 (432) 212-00-00"
+        }
+      ]
+    }
+  }
+}
